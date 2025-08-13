@@ -12,7 +12,7 @@
 
 I'm a Computer Science student at Purdue University with experience in Python, C, Java, web development, and IoT projects. I'm passionate about AI, software development, and contributing to open-source.
 
-- 🔭 Currently working on **[Ryska](https://github.com/reposketched/ryska)** — a toy lightweight UCI chess engine written in C - play against it on **[lichess.org](https://lichess.org/@/shogunBOT)**!
+- 🔭 Currently working on **[Ryska](https://github.com/reposketched/ryska)** — a toy lightweight UCI chess engine written in ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - play against it on **[lichess.org](https://lichess.org/@/shogunBOT)**!
 - 🌱 Learning advanced AI/ML, web frameworks, and low-level programming
 - 💬 Ask me about Python, C, Flask/Django, chess engine design, or IoT.
 - ⚡ Fun fact: I've built a lightweight chess engine (~1000 Elo) and an IoT smart dustbin for dietary analysis.
