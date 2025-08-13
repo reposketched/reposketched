@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sooryashankar Joy
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sooryashankar%20Joy-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sooryashankar-joy) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sooryashankar%20Joy-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sooryashankar-joy)
 [![GitHub](https://img.shields.io/badge/GitHub-reposketched-black?logo=github&style=flat-square)](https://github.com/reposketched) 
 [![Email](https://img.shields.io/badge/Email-joy12@purdue.edu-red?style=flat-square)](mailto:joy12@purdue.edu)
 
@@ -12,7 +12,7 @@
 
 I'm a Computer Science student at Purdue University with experience in Python, C, Java, web development, and IoT projects. I'm passionate about AI, software development, and contributing to open-source.
 
-- 🔭 Currently working on **[Ryska](https://github.com/reposketched/ryska)** — a toy lightweight UCI chess engine written in ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - play against it on **[lichess.org](https://lichess.org/@/shogunBOT)**!
+- 🔭 Currently working on **[Ryska](https://github.com/reposketched/ryska)** — a toy lightweight UCI chess engine written in C - play against it on **[lichess.org](https://lichess.org/@/shogunBOT)**!
 - 🌱 Learning advanced AI/ML, web frameworks, and low-level programming
 - 💬 Ask me about Python, C, Flask/Django, chess engine design, or IoT.
 - ⚡ Fun fact: I've built a lightweight chess engine (~1000 Elo) and an IoT smart dustbin for dietary analysis.
