@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Sooryashankar Joy
 
-<!--
-**reposketched/reposketched** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sooryashankar%20Joy-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sooryashankar-joy) 
+[![GitHub](https://img.shields.io/badge/GitHub-reposketched-black?logo=github&style=flat-square)](https://github.com/reposketched) 
+[![Email](https://img.shields.io/badge/Email-joy12@purdue.edu-red?style=flat-square)](mailto:joy12@purdue.edu)
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=reposketched&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑 About Me
+
+I'm a Computer Science student at Purdue University with experience in Python, C, Java, web development, and IoT projects. I'm passionate about AI, software development, and contributing to open-source.
+
+- 🔭 Currently working on **[Ryska](https://github.com/reposketched/ryska)** — a toy lightweight UCI chess engine written in C - play against it on **[lichess.org](https://lichess.org/@/shogunBOT)**!
+- 🌱 Learning advanced AI/ML, web frameworks, and low-level programming
+- 💬 Ask me about Python, C, Flask/Django, chess engine design, or IoT.
+- ⚡ Fun fact: I've built a lightweight chess engine (~1000 Elo) and an IoT smart dustbin for dietary analysis.
+
+---
+
+## 🛠 Languages & Tools
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## ☕ Support Me
+
+If you like my work, buy me a coffee! 🥺  
+<a href="https://www.buymeacoffee.com/reposketched" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
+
+---
+
+## 📈 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reposketched&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reposketched&show_icons=true&hide_border=true&theme=radical)
