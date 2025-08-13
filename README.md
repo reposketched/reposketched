@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sooryashankar Joy
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sooryashankar%20Joy-blue?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sooryashankar-joy)
+[![LinkedIn](https://badge.fyi/linkedin/Sooryashankar%20Joy)](https://www.linkedin.com/in/sooryashankar-joy)
 
 [![GitHub](https://img.shields.io/badge/GitHub-reposketched-black?logo=github&style=social)](https://github.com/reposketched) 
 [![Email](https://img.shields.io/badge/Email-joy12@purdue.edu-red?style=social)](mailto:joy12@purdue.edu)
